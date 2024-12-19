@@ -1,6 +1,6 @@
 # AI-Job-Posting-Board
 
-## 算法相关：LLM Engineer/Software Developer/Machine Learning Engineer/Data Engineer/AI Infra
+## 算法技术相关：LLM Engineer/Software Developer/Machine Learning Engineer/Data Engineer/AI Infra
 
 | 职位Title  | JD | Company | Location |
 |----|----|----|----|
