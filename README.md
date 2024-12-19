@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/2c5050fa-e5df-49c2-a5fb-39f10a055c89)# AI-Job-Posting-Board
+![image](https://github.com/user-attachments/assets/0693e84c-73fa-4457-a4f7-95e3d557568b)![image](https://github.com/user-attachments/assets/2c5050fa-e5df-49c2-a5fb-39f10a055c89)# AI-Job-Posting-Board
 
 | 职位Title  | JD | Company | Location |
 |----|----|----|----|
@@ -6,3 +6,7 @@
 | Software Engineer, Core AI & Growth | Responsibilities: - Familiarizing product and growth funnels, before joining our hacker team prototyping and crafting our next innovative product for prosumers and enterprise customers. - Explore various new ideas with edging-cut AI technologies from the market and our AI lab Qualifications: - 5-8 years of experience in software engineering. - Both front-end and server-side skills is required. | US AI Native Start-up |Canada|
 | CV算法工程师 | 工作职责：1、负责计算机视觉领域前沿算法和系统的跟进与研究，如图像生成、视频生成等技术的应用落地和探索2、与前后端工程师，产品经理等团队成员协作，完成产品的迭代和交付任职要求：1、人工智能、计算机、通信工程等相关专业的在校研究生2、熟练掌握至少一种深度学习框架，如Pytorch、TensorFlow等3、对图像生成、视频生成技术有深入研究和实践经验4、具有良好的团队合作精神，能够与团队成员高效沟通协作 | 人工智能技术服务公司  |北京|
 | （高级）算法工程师 | 职位职责： * 开发与基础模型相关的技术或模块。 * 解决实践中的关键瓶颈。 * 分享技术愿景和系统化见解。 * 向客户交付成熟的产品。 职位要求： * 计算机科学、电气工程或相关领域的硕士学位。 * 2到4年以上的基础模型和人工智能研发经验。 * 对解决问题充满热情。 * 在预训练、持续学习、sft&align、RAG、表格理解等方面具有扎实的实践经验。 * 自驱力强，具备良好的沟通能力。 | 智能科技领域公司 |香港 深圳|
+| （高级）数据工程师 | 工作职责：*从互联网抓取大规模数据。*对基础模型训练进行大规模数据清洗。*构建自动化数据更新的数据管道。*向算法团队提供高质量数据。任职要求：*计算机科学、电气工程或相关领域的学士学位。*2到4年以上数据抓取和数据清洗的丰富经验。*对解决问题充满热情，尤其是在数据工程和统计方面。*自驱力强，具备良好的沟通能力。 | 智能科技领域公司 |香港 深圳|
+| 算法总监 | 工作职责：*领导基础模型算法开发团队。*解决实践中的关键瓶颈问题。*设计算法模块的架构。*通过技术愿景和系统化见解指导团队成员。*向客户交付成熟的产品。任职要求：*计算机科学、电气工程或相关领域的博士学位。*6年以上基础模型和人工智能研发经验。*对解决问题充满热情。*在预训练、持续学习、sft&alignment、RAG、表格理解等方面具有扎实的实践经验。*自驱力强，具备良好的沟通能力。 | 香港AI智能科技领域公司 |香港 深圳|
+| 大模型数据总监 | 工作职责：*领导基础模型的数据工程团队。*解决实践中的关键瓶颈问题。*从互联网抓取大规模数据。*对基础模型训练进行大规模数据清洗。*通过技术愿景和系统化见解指导团队成员。*向算法团队提供高质量数据。任职要求：*计算机科学、电气工程或相关领域的硕士学位。*6年以上数据抓取和数据清洗的丰富经验。*对解决问题充满热情，尤其是在数据工程和统计方面。*自驱力强，具备良好的沟通能力。 | 智能科技领域公司 |香港 深圳|
+| AI infra 架构师 | 工作职责： 1、负责大模型、GPU分布式计算系统研发，探索面向大模型的训练及推理； 2、负责分布式系统软件的设计和开发，提升多GPU（同一节点和跨网络多节点）高性能网络通信性能。 任职要求： 1、精通C/C++，Python，3+年及以上编程经验； 2、熟悉网络协议如TCP/IP，UDP等；熟悉Socket网络编程，有RDMA编程经验； 3、了解ROCE端网融合技术或Nvidia IB网络技术其中一种技术方向； 4、了解集合通信原理； 5、了解AI模型训练的程序和框架如megatron-LM，pytorch，tensorflow等； 6、了解transformer的结构，了解模型训练、微调和推理的过程和原理； | 开放算力网络提供商 |北京|
